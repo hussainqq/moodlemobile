@@ -1,20 +1,18 @@
-Moodle Mobile
+ProfitSignals Mobile
 ============
 
 This is the primary repository of source code for the official Moodle Mobile app.
 
-User documentation: http://docs.moodle.org/en/Mobile_app
+User documentation: http://docs.profitsignals.com/en/Mobile_app
 
-Developer documentation: http://docs.moodle.org/dev/Moodle_Mobile
+Developer documentation: http://docs.profitsignals.com//dev/Mobile_app
 
-Bug Tracker:  https://tracker.moodle.org/browse/MOBILE
+Bug Tracker:  https://tracker.profitsignals.com/browse/MOBILE
 
-Release Notes: http://docs.moodle.org/dev/Moodle_Mobile_Release_Notes
+Release Notes: http://docs.profitsignals.com/dev/Mobile_Release_Notes
 
 To build the app, refer to:
-http://docs.moodle.org/dev/Moodle_Mobile_Customization#Building
-http://docs.moodle.org/dev/Moodle_Mobile_Building_the_app_for_Android
-http://docs.moodle.org/dev/Moodle_Mobile_Building_the_app_for_iOS
+http://docs.profitsignals.com/dev/BUILD
 
 ## License
 Apache 2.0 http://www.apache.org/licenses/LICENSE-2.0
